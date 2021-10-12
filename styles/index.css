@@ -1,0 +1,92 @@
+body {
+    background-image: url(../images/mountains.png);
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vh;
+}
+
+.header {
+    width: 372px;
+    height: 76px;
+    margin-top: 264px;
+    margin-left: 673px;
+   
+}
+
+.title {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 48px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 4.8px;
+    text-transform: uppercase;
+    color: white;
+}
+
+.header-txt {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 22px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 6.82px;
+    color: white;
+}
+
+.search-box {
+    margin-top: 100px;
+    margin-left: 560px;
+}
+
+.search {
+    width: 653px;
+    height: 63px;
+    
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 2.8px;
+    color: #999999;
+}
+
+.submit-btn {
+    width: 153px;
+    height: 63px;
+    background-color: #5474FD;
+    border: none;
+    color: white;
+    font-family: 'Aleo', serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+}
+
+.scroll-down-div {
+    width: 108px;
+    height: 46px;
+    margin-top: 108px;
+    
+}
+
+
+
+
+
+
