@@ -1,8 +1,7 @@
 body {
     background-image: url(../images/mountains.png);
     background-repeat: no-repeat;
-    height: 100vh;
-    width: 100vh;
+    
    
 }
 
@@ -51,12 +50,14 @@ body {
 .search {
     width: 653px;
     height: 63px;
+    margin-left: auto;
+    margin-right: auto;
     
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 14px;
-    line-height: 26px;
+    
     display: flex;
     align-items: center;
     text-align: center;
@@ -67,6 +68,8 @@ body {
 .submit-btn {
     width: 153px;
     height: 63px;
+    margin-left: auto;
+    margin-right: auto;
     background-color: #5474FD;
     border: none;
     color: white;
@@ -74,7 +77,7 @@ body {
     font-weight: 400;
     font-style: normal;
     font-size: 14px;
-    line-height: 26px;
+    
     display: flex;
     align-items: center;
     text-align: center;
@@ -130,10 +133,7 @@ body {
 }
 
 
-.nav-links {
-    justify-content: space-between;
-    justify-content: flex-end;
-}
+
 
 .link-1, .link-2, .link-3, .link-4 {
     font-family: 'Aleo', serif;
@@ -144,12 +144,13 @@ body {
     color: white;
     text-decoration: none;
     justify-content: space-between;
+    
 }
 
 .second-page-txt {
     margin-top: 212px;
     margin-left: 330px;
-    
+
 }
 
 .WCU-txt {
@@ -174,6 +175,71 @@ body {
     letter-spacing: 1.6px;
     color: grey;
 }
+
+.explore-places {
+    
+    margin-top: 48px;
+    margin-left: 328px;
+}
+
+.explore-places-btn {
+    width: 228px;
+    height: 63px;
+    font-family: 'Aleo', serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 26px;
+    display: flex;
+    align-items: flex-start;
+    text-align: center;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    color:white;
+    background-color: #5474FD;
+    border: none;
+}
+
+.house-water-div {
+    margin-top: 0px;
+    margin-left: 1000px;
+}
+
+.mountain2 {
+    margin-left: 1105px;
+}
+
+.third-section {
+    background-image: url(../images/modern-house.png);
+    height: 700px;
+    /*width: 543px;
+    height: 374px;
+    opacity: 90%;
+    background-color: #232323;*/
+}
+
+.TS-textbox {
+    margin-left: 328px;
+    width: 543px;
+    height: 374px;
+    opacity: 90%;
+    background-color: #232323;
+    
+    align-items: flex-start;
+}
+
+.spain {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 1.5px;
+    color: #E8E8E8;
+}
+
+
 
 
 
