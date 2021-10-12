@@ -3,13 +3,16 @@ body {
     background-repeat: no-repeat;
     height: 100vh;
     width: 100vh;
+   
 }
+
 
 .header {
     width: 372px;
     height: 76px;
     margin-top: 264px;
-    margin-left: 673px;
+    margin-left: auto;
+    margin-right: auto;
    
 }
 
@@ -41,7 +44,8 @@ body {
 
 .search-box {
     margin-top: 100px;
-    margin-left: 560px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .search {
@@ -83,7 +87,96 @@ body {
     height: 46px;
     margin-top: 108px;
     
+    margin-left: auto;
+    margin-right: auto;
 }
+
+.scroll-btn {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 2.8px;
+    color: white;
+    background: none;
+    border: none;
+}
+.scroll-btn:hover, .submit-btn:hover, .nav-links:hover {
+    font-size: 18px;
+}
+
+.nav-bar {
+    background-color: #5474FD;
+    height: 80px;
+    width: 1500px;
+    display: flex;
+}
+
+.nav-logo {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 2.4px;
+    text-transform: uppercase;
+    color: white;
+}
+
+
+.nav-links {
+    justify-content: space-between;
+    justify-content: flex-end;
+}
+
+.link-1, .link-2, .link-3, .link-4 {
+    font-family: 'Aleo', serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+    justify-content: space-between;
+}
+
+.second-page-txt {
+    margin-top: 212px;
+    margin-left: 330px;
+    
+}
+
+.WCU-txt {
+    font-family: 'Aleo', serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 36px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    color: grey;
+}
+
+.SP-txt {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 1.6px;
+    color: grey;
+}
+
+
+
 
 
 
