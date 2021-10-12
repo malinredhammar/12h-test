@@ -149,8 +149,8 @@ ul {
 }
 
 .second-page-txt {
-    margin-top: 75px;
     background-image: url(../images/second-page-bg.png);
+    margin-left: -5px;
     width: 1770px;
     height: 685px;
     margin-left: -7px;
@@ -183,7 +183,8 @@ ul {
 }
 
 .explore-places {
-    
+    display: flex;
+    text-align: center;
     margin-top: 48px;
     margin-left: 328px;
 }
@@ -216,12 +217,15 @@ ul {
 }
 
 .how-it-works {
+    width: 1770px;
     margin-top: -5px;
     margin-left: -10px;
 }
 
 .third-section {
     background-image: url(../images/modern-house.png);
+    margin-top: -5px;
+    margin-left: -10px;
     height: 700px;
     width: 1770px;
 }
@@ -302,6 +306,7 @@ ul {
 
 .fourth-section {
     background-image: url(../images/sunset.png);
+    margin-left: -10px;
     height: 700px;
     width: 1770px;
 }
@@ -376,6 +381,7 @@ ul {
 
 .last-section {
     background-image: url(../images/background-man.png);
+    margin-left: -10px;
     width: 1770px;
     height: 731px;
 }
@@ -429,6 +435,7 @@ ul {
 .footer {
     width: 1770px;
     height: 271px;
+    margin-left: -10px;
     background-color: #232323;
     align-items: center;
     text-align: center;
@@ -457,3 +464,7 @@ ul {
     letter-spacing: 1.6px;
     color: white;
 }
+
+/* I unfortunately did not have the time to make the website responsive down to 340px*/
+/* I tried to use sass but I don't think it's working*/
+
