@@ -1,0 +1,156 @@
+.third-section {
+    background-image: url(../images/modern-house.png);
+    height: 700px;
+    width: 1770px;
+    
+}
+
+.TS-textbox {
+    margin-left: 328px;
+    width: 543px;
+    height: 374px;
+    opacity: 90%;
+    background-color: #232323;
+    
+    align-items: flex-start;
+}
+
+.spain {
+    
+    margin-left: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 1.5px;
+    color: #E8E8E8;
+}
+
+.grand-spain-madrid {
+    margin-top: 23px;
+    margin-left: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    
+    color: #E8E8E8;
+}
+
+.spain-txt {
+    margin-left: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    color: #E8E8E8;
+}
+
+.spain-txt-div {
+    
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    color: #E8E8E8;
+    margin-top: 13px;
+}
+
+.spain-btn {
+    margin-top: 46px;
+    margin-left: 30px;
+    width: 228px;
+    height: 63px;
+    background-color: #5474FD;
+    color: white;
+    font-family: 'Aleo', serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 1.2px;
+    border: none;
+}
+
+.fourth-section {
+    background-image: url(../images/sunset.png);
+    height: 700px;
+    width: 1770px;
+}
+
+.FS-textbox {
+    margin-left: 900px;
+    width: 543px;
+    height: 374px;
+    opacity: 90%;
+    background-color: #232323;
+    
+    align-items: flex-start;
+}
+
+.spain2 {
+    margin-left: 32px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 1.5px;
+    color: #E8E8E8;
+}
+
+.grand-spain-madrid2 {
+    margin-top: 23px;
+    margin-left: 32px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    color: #E8E8E8;
+}
+
+.spain-txt2 {
+    margin-top: 30px;
+    margin-left: 32px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    color: #E8E8E8;
+}
+
+.spain-btn2 {
+    margin-top: 46px;
+    margin-left: 28px;
+    width: 228px;
+    height: 63px;
+    background-color: #5474FD;
+    color: white;
+    font-family: 'Aleo', serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 1.2px;
+    border: none;
+}
+
+.spain-btn:hover, .spain-btn2:hover {
+    font-size: 20px;
+}

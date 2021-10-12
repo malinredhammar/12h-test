@@ -1,10 +1,7 @@
 body {
     background-image: url(../images/mountains.png);
     background-repeat: no-repeat;
-    
-   
 }
-
 
 .header {
     width: 372px;
@@ -12,7 +9,6 @@ body {
     margin-top: 264px;
     margin-left: auto;
     margin-right: auto;
-   
 }
 
 .title {
@@ -89,7 +85,6 @@ body {
     width: 108px;
     height: 46px;
     margin-top: 108px;
-    
     margin-left: auto;
     margin-right: auto;
 }
@@ -108,18 +103,22 @@ body {
     background: none;
     border: none;
 }
+
 .scroll-btn:hover, .submit-btn:hover, .nav-links:hover, .explore-places-btn:hover {
     font-size: 18px;
 }
 
 .nav-bar {
+    margin-top: 134px;
     background-color: #5474FD;
+    margin-left: -8px;
     height: 80px;
-    width: 1762px;
+    width: 1770px;
     display: flex;
 }
 
 .nav-logo {
+    margin-left: 319px;
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 700;
     font-style: normal;
@@ -132,7 +131,13 @@ body {
     color: white;
 }
 
+ul {
+    display: inline;
+    float: right;
+}
+
 .link-1, .link-2, .link-3, .link-4 {
+    
     font-family: 'Aleo', serif;
     font-weight: 400;
     font-style: normal;
@@ -141,7 +146,6 @@ body {
     color: white;
     text-decoration: none;
     justify-content: space-between;
-    
 }
 
 .second-page-txt {
@@ -154,7 +158,7 @@ body {
 
 .WCU-txt {
     margin-left: 330px;
-    margin-top: 14px;
+    margin-top: 0px;
     font-family: 'Aleo', serif;
     font-weight: 400;
     font-style: normal;
@@ -211,11 +215,15 @@ body {
     margin-left: 1105px;
 }
 
+.how-it-works {
+    margin-top: -5px;
+    margin-left: -10px;
+}
+
 .third-section {
     background-image: url(../images/modern-house.png);
     height: 700px;
     width: 1770px;
-    
 }
 
 .TS-textbox {
@@ -224,7 +232,6 @@ body {
     height: 374px;
     opacity: 90%;
     background-color: #232323;
-    
     align-items: flex-start;
 }
 
@@ -250,7 +257,6 @@ body {
     font-size: 20px;
     display: flex;
     align-items: center;
-    
     color: #E8E8E8;
 }
 
@@ -372,7 +378,6 @@ body {
     background-image: url(../images/background-man.png);
     width: 1770px;
     height: 731px;
-
 }
 
 .last-section-heading {
@@ -393,7 +398,6 @@ body {
     margin-top: 91px;
     margin-left: 331px;
     background-color: #333333;
-
 }
 
 .man-div {
@@ -419,16 +423,13 @@ body {
     display: flex;
     align-items: center;
     color: white;
-    
     line-height: 26px;
-
 }
 
 .footer {
     width: 1770px;
     height: 271px;
     background-color: #232323;
-    
     align-items: center;
     text-align: center;
 }
@@ -456,16 +457,3 @@ body {
     letter-spacing: 1.6px;
     color: white;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
