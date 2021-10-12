@@ -108,14 +108,14 @@ body {
     background: none;
     border: none;
 }
-.scroll-btn:hover, .submit-btn:hover, .nav-links:hover {
+.scroll-btn:hover, .submit-btn:hover, .nav-links:hover, .explore-places-btn:hover {
     font-size: 18px;
 }
 
 .nav-bar {
     background-color: #5474FD;
     height: 80px;
-    width: 1500px;
+    width: 1762px;
     display: flex;
 }
 
@@ -148,12 +148,15 @@ body {
 }
 
 .second-page-txt {
-    margin-top: 212px;
-    margin-left: 330px;
-
+    background-image: url(../images/second-page-bg.png);
+    width: 1770px;
+    height: 685px;
+    
 }
 
 .WCU-txt {
+    margin-left: 330px;
+    margin-top: 14px;
     font-family: 'Aleo', serif;
     font-weight: 400;
     font-style: normal;
@@ -161,10 +164,11 @@ body {
     line-height: 26px;
     display: flex;
     align-items: center;
-    color: grey;
+    color: white;
 }
 
 .SP-txt {
+    margin-left: 330px;
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -173,7 +177,7 @@ body {
     display: flex;
     align-items: center;
     letter-spacing: 1.6px;
-    color: grey;
+    color: rgb(255, 255, 255);
 }
 
 .explore-places {
@@ -375,8 +379,55 @@ body {
 }
 
 .last-section-heading {
-    
+    margin-left: 690px;
+    font-family: 'Aleo', serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: white;
 }
+
+.last-section-txtbox {
+    width: 1107px;
+    height: 287px;
+    margin-top: 91px;
+    margin-left: 331px;
+    background-color: #333333;
+
+}
+
+.man-div {
+    float: left;
+}
+
+.sam-sumon {
+    margin-left: 62px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.sam-sumon-txt {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    color: white;
+    
+    line-height: 26px;
+
+}
+
+
 
 
 
