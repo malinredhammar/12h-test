@@ -212,10 +212,8 @@ body {
 .third-section {
     background-image: url(../images/modern-house.png);
     height: 700px;
-    /*width: 543px;
-    height: 374px;
-    opacity: 90%;
-    background-color: #232323;*/
+    width: 1770px;
+    
 }
 
 .TS-textbox {
@@ -239,8 +237,103 @@ body {
     color: #E8E8E8;
 }
 
+.grand-spain-madrid {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    
+    color: #E8E8E8;
+}
 
+.spain-txt {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    color: #E8E8E8;
+}
 
+.spain-btn {
+    width: 228px;
+    height: 63px;
+    background-color: #5474FD;
+    color: white;
+    font-family: 'Aleo', serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 1.2px;
+    border: none;
+}
+
+.fourth-section {
+    background-image: url(../images/sunset.png);
+    height: 700px;
+    width: 1770px;
+}
+
+.FS-textbox {
+    margin-left: 900px;
+    width: 543px;
+    height: 374px;
+    opacity: 90%;
+    background-color: #232323;
+    
+    align-items: flex-start;
+}
+
+.spain2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 1.5px;
+    color: #E8E8E8;
+}
+
+.grand-spain-madrid2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    color: #E8E8E8;
+}
+
+.spain-txt2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    color: #E8E8E8;
+}
+
+.spain-btn2 {
+    width: 228px;
+    height: 63px;
+    background-color: #5474FD;
+    color: white;
+    font-family: 'Aleo', serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 1.2px;
+    border: none;
+}
 
 
 
