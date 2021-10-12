@@ -227,6 +227,8 @@ body {
 }
 
 .spain {
+    margin-top: 49px;
+    margin-left: 30px;
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -238,6 +240,8 @@ body {
 }
 
 .grand-spain-madrid {
+    margin-top: 23px;
+    margin-left: 30px;
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -249,6 +253,7 @@ body {
 }
 
 .spain-txt {
+    margin-left: 30px;
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -258,7 +263,21 @@ body {
     color: #E8E8E8;
 }
 
+.spain-txt-div {
+    
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    color: #E8E8E8;
+    margin-top: 13px;
+}
+
 .spain-btn {
+    margin-top: 46px;
+    margin-left: 30px;
     width: 228px;
     height: 63px;
     background-color: #5474FD;
@@ -290,6 +309,8 @@ body {
 }
 
 .spain2 {
+    margin-top: 49px;
+    margin-left: 32px;
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -301,6 +322,8 @@ body {
 }
 
 .grand-spain-madrid2 {
+    margin-top: 23px;
+    margin-left: 32px;
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -311,6 +334,8 @@ body {
 }
 
 .spain-txt2 {
+    margin-top: 30px;
+    margin-left: 32px;
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -321,6 +346,8 @@ body {
 }
 
 .spain-btn2 {
+    margin-top: 46px;
+    margin-left: 28px;
     width: 228px;
     height: 63px;
     background-color: #5474FD;
@@ -331,8 +358,24 @@ body {
     font-size: 16px;
     display: flex;
     align-items: center;
+    text-align: center;
     letter-spacing: 1.2px;
     border: none;
+}
+
+.spain-btn:hover, .spain-btn2:hover {
+    font-size: 20px;
+}
+
+.last-section {
+    background-image: url(../images/background-man.png);
+    width: 1770px;
+    height: 731px;
+
+}
+
+.last-section-heading {
+    
 }
 
 
